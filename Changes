@@ -1,0 +1,14 @@
+Revision history for RT-Extension-ArticleTemplates
+
+0.03  Fri May 20 2011
+
+    Renamed to RT-Extension-ArticleTemplates and made compatible with RT 4.0.0
+
+0.02  Mon Sep 15 2008
+
+    Update installer.
+
+0.01  Tue May 13 2008
+
+    Initial release.
+
