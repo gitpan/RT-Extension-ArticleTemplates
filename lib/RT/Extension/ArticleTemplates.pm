@@ -3,7 +3,7 @@ use warnings;
 
 package RT::Extension::ArticleTemplates;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 =head1 NAME
 
@@ -38,6 +38,18 @@ To install it run the following commands:
 
 You'll also need to add RT::Extension::ArticleTemplates to your @Plugins
 config line.
+
+=head1 CONFIGURATION
+
+=head2 ArticleTemplatesWithRequestArgs
+
+Enabling this option passes in the Mason request arguments to your article
+templates as the hashref C<$request_args>.
+
+B<Warning>: Request args are user-controlled direct input, so all the normal
+cautions of using them apply.  Never trust user input.
+
+Disabled by default.
 
 =head1 AUTHOR
 
