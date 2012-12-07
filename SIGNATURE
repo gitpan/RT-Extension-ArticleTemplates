@@ -14,35 +14,37 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 fbc077b7a9373d20925c8f12fb4317ea01da1ee6 Changes
-SHA1 48932d07b39a130b884bbd0a8fdccd21eb5dae44 MANIFEST
-SHA1 7f54ca3534541d8ccc97e64afe88c42fdd10e097 META.yml
-SHA1 fc412643ac30280f06b3f18b30f0df4344b5a2a2 Makefile.PL
-SHA1 03c307c1a5d90e7100ad3435ae5af5d23e0abc0b README
+SHA1 8cc2ac1352039e31119ba25a973b76d3b8e93ffa Changes
+SHA1 c03f84493f3560bf045c5468c596c22be57cfa75 MANIFEST
+SHA1 737c9fe9691a81c4f72f9aceba1cf3c13f6a233e META.yml
+SHA1 05dc71be67d890e9917901211a924eb227d1c2cd Makefile.PL
+SHA1 4accc5b8252bf84f3c6a9c2ff39521b1ffeae9cb README
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Articles/Article/Elements/Preformatted/ProcessContent
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Articles/Elements/SubjectOverride/ProcessContent
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Elements/SubjectOverride/ProcessContent
 SHA1 957ca464fcb6c5f962bfab9beae989ce2babee8b html/Elements/RT-Extension-ArticleTemplates/ProcessContent
-SHA1 5d94bc10deff1dd74e4bc5dfa6fc015e39271f15 inc/Module/AutoInstall.pm
-SHA1 40106479d4e07f379cb82ca1d69fca92e3a40f47 inc/Module/Install.pm
-SHA1 34a24a530ecf0365cc02e4150b06c9bed702a441 inc/Module/Install/AutoInstall.pm
-SHA1 ae8aa01a73cb83da31c39e8eed1120c59cb530a1 inc/Module/Install/Base.pm
-SHA1 5c87d2d0e2c08b5173259006c88ad81c24303f9d inc/Module/Install/Can.pm
-SHA1 98daf9d8c50b4b7e8988cf1fa2b86044ad219533 inc/Module/Install/Fetch.pm
-SHA1 f3e008113f7f49b0625083b6cc358a312854f613 inc/Module/Install/Include.pm
-SHA1 e67589fcbacdda6c98ff34d8e26a004ab0467bdc inc/Module/Install/Makefile.pm
-SHA1 209ea405d4ab94475661bb450d0ea042d2ec25b5 inc/Module/Install/Metadata.pm
-SHA1 086821cf681da29d7a7e94e8a6fe6cce7e14f00f inc/Module/Install/RTx.pm
-SHA1 1326052d1df1065debee74f9d8583a734b9b3d00 inc/Module/Install/Win32.pm
-SHA1 bb607f3715c40fc3bc1c46496587cdb215bc4fa2 inc/Module/Install/WriteAll.pm
-SHA1 f125d57d702eca8d1ac006ed1a74a47f67f9da50 lib/RT/Extension/ArticleTemplates.pm
+SHA1 06c410f05488c1612ed66b06d3a86b2580581e4a inc/Module/AutoInstall.pm
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 61ab1dd37e33ddbe155907ce51df8a3e56ac8bbf inc/Module/Install/AutoInstall.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 66d3d335a03492583a3be121a7d888f63f08412c inc/Module/Install/Include.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 43b47fb3c5ec06b71bb175258c8c1b2aaf8a10ab inc/Module/Install/RTx.pm
+SHA1 dc94326a076aca41452c1d65bf52a255feeb9ef7 inc/Module/Install/ReadmeFromPod.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 04d8fb1fa1a84dab119cb7783a9bea78c1a7ad3b lib/RT/Extension/ArticleTemplates.pm
 SHA1 1ce45e976baf75cfe4111fd172f4ed2562262343 t/00.load.t
 SHA1 6da39b48ce64b584e4c3274bff96fc76ff484820 t/pod-coverage.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG v1.4.12 (Darwin)
+Comment: GPGTools - http://gpgtools.org
 
-iD8DBQFO35B2Hdv9ZfNcOAcRAlifAJ9rKnbG+UxGQKVGiVa8gMY65hK6vQCeLSXO
-K8D8/VXjsBAf3qiJFsVhpXw=
-=MwkZ
+iEYEARECAAYFAlDBT8UACgkQ0+gKWp5CJQoLtgCgplE6dWsIkxmSxb8JTTOwHZ9K
+i5EAoOMyBk36FsO2Mc+fV6+iH79UkcKI
+=ywtS
 -----END PGP SIGNATURE-----
