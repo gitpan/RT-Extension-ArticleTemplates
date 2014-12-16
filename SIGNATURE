@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.68.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,37 +14,39 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c03a763796137d2f3855e0dc4885ff88d462ae6e Changes
-SHA1 c03f84493f3560bf045c5468c596c22be57cfa75 MANIFEST
-SHA1 4a052c63616f14ba8bc64125450cee7091a92ed9 META.yml
-SHA1 f711c05e5eeff9589698cb6b3f735ac798c0196e Makefile.PL
-SHA1 4accc5b8252bf84f3c6a9c2ff39521b1ffeae9cb README
+SHA1 97dadc153409fb49efcbb6bb2d4ce83c203d2fcc Changes
+SHA1 0a9ee3f93be00514ac4a75153d9bc7799e92de3a MANIFEST
+SHA1 6cc4e570d95b7ef3f8ae7f468b5a58a20c878dea META.yml
+SHA1 ede98e27ffe8641a7c1e05e9f903a5baf388870d Makefile.PL
+SHA1 0efa7537f4b9eaae194aa1ecd82a85293c620fe8 README
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Articles/Article/Elements/Preformatted/ProcessContent
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Articles/Elements/SubjectOverride/ProcessContent
 SHA1 91ad16f1abd456893013712a2e734ca825b88f36 html/Callbacks/RT-Extension-ArticleTemplates/Elements/SubjectOverride/ProcessContent
 SHA1 957ca464fcb6c5f962bfab9beae989ce2babee8b html/Elements/RT-Extension-ArticleTemplates/ProcessContent
-SHA1 06c410f05488c1612ed66b06d3a86b2580581e4a inc/Module/AutoInstall.pm
-SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
-SHA1 61ab1dd37e33ddbe155907ce51df8a3e56ac8bbf inc/Module/Install/AutoInstall.pm
-SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
-SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
-SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
-SHA1 66d3d335a03492583a3be121a7d888f63f08412c inc/Module/Install/Include.pm
-SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
-SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
-SHA1 43b47fb3c5ec06b71bb175258c8c1b2aaf8a10ab inc/Module/Install/RTx.pm
-SHA1 dc94326a076aca41452c1d65bf52a255feeb9ef7 inc/Module/Install/ReadmeFromPod.pm
-SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
-SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 4093af4850f52512ec4d053448d11dfdf6492d4d lib/RT/Extension/ArticleTemplates.pm
+SHA1 248dabb0dbdd603ecf7374c69e9a51073453e15d inc/Module/AutoInstall.pm
+SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
+SHA1 4d21888488f7c6a67742343a0be404bb7e1b3e66 inc/Module/Install/AutoInstall.pm
+SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
+SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
+SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 d44d96acd20793306dd201030c688e2a7d3083ee inc/Module/Install/Include.pm
+SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
+SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
+SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
+SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
+SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
+SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
+SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
+SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
+SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
+SHA1 b9038ce5b054e05a14954c0683c0ef6ed5a470b2 lib/RT/Extension/ArticleTemplates.pm
 SHA1 1ce45e976baf75cfe4111fd172f4ed2562262343 t/00.load.t
 SHA1 6da39b48ce64b584e4c3274bff96fc76ff484820 t/pod-coverage.t
 SHA1 0190346d7072d458c8a10a45c19f86db641dcc48 t/pod.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (Darwin)
-Comment: GPGTools - http://gpgtools.org
+Version: GnuPG v1
 
-iEYEARECAAYFAlDBYGEACgkQ0+gKWp5CJQrcrACgmir6s44ZxylrDIJ5ebSP8/JC
-jyMAn37vJl+8VdknhByoDxyYp9Oc869m
-=JifI
+iEYEARECAAYFAlSQu/oACgkQMflWJZZAbqAC+gCfS8A/Tn3CJxjnTC5DT028hrmi
+D/wAoMJxNheyFPMoRtOJDJUmwcAqypq7
+=/Epm
 -----END PGP SIGNATURE-----
